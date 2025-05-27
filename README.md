@@ -27,13 +27,13 @@ A simple user authentication project built with **PHP**, **MySQL**, **HTML**, **
 
 
 ### 📝 Registration Page  
-![Register](screenshots/register.png)
+![Register](Images/signup.png)
 
 ### 🔐 Login Page  
-![Login](screenshots/login.png)
+![Login](Images/login.png)
 
 ### 👋 Welcome Page  
-![Welcome](screenshots/welcome.png)
+![Welcome](Images/welcome.png)
 
 ---
 
