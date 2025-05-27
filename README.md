@@ -23,6 +23,16 @@ A simple user authentication project built with **PHP**, **MySQL**, **HTML**, **
 
 ---
 
+## 🧰 Technologies Used
+
+| Layer        | Technologies         |
+|--------------|----------------------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend**  | PHP                   |
+| **Database** | MySQL                 |
+| **Hosting**  | InfinityFree          |  
+
+
 ## 📸 Screenshots
 
 
@@ -37,13 +47,6 @@ A simple user authentication project built with **PHP**, **MySQL**, **HTML**, **
 
 ---
 
-## 🧰 Technologies Used
-
-| Layer        | Technologies         |
-|--------------|----------------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend**  | PHP                   |
-| **Database** | MySQL                 |
-| **Hosting**  | InfinityFree          |
+ 
 
  
