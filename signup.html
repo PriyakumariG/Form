@@ -1,0 +1,42 @@
+<!--  for run type these on browser --- > http://localhost:8080/phpDBproject/signup.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp</title>
+    <link rel="stylesheet" href="style.css">
+     
+</head>
+<body>
+    <div class="box">
+        <h2>SignUP Form</h2>
+        <form action="index.php" method="post">
+            <div class="form-group">
+                <label for="">Username</label>
+                <input type="text" name="name" id="" placeholder="Enter Name">
+            </div>
+            <div class="form-group">
+                <label for="">Email</label>
+                <input type="email" name="email" id="" placeholder="Enter Email">
+            </div>
+            <div class="form-group">
+                <label for="">Phone</label>
+                <input type="tel" name="phone" id="" placeholder="Enter Number">
+            </div>
+            <div class="form-group">
+                <label for="">City</label>
+                <input type="text" name="city" id="" placeholder="Enter City">
+            </div>
+            <div class="form-group">
+                <label for="">Password</label>
+                <input type="password" name="pass" id="" placeholder="Enter Password">
+            </div>
+
+            <input type="submit" value="Sign Up">
+            <p>Already have an account ? <a href="login.html">Log In</a></p>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
